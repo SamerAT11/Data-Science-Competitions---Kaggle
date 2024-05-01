@@ -1,4 +1,4 @@
-# Data-Science-Competitions-Kaggle
+# Data-Science-Scripts-Kaggle
 
 This repository contains all Kaggle scripts that I implemented for competitions and for learning.
 
