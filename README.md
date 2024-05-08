@@ -10,5 +10,5 @@ This repository contains all Kaggle scripts that I implemented for competitions 
    * Competition 5: Classification of Clothing and Accessories
    * Competition 6: Prediction of Golf Stock Price
 
-* Classification Scripts:
+* Image Classification Scripts:
    * Flowers classifier - PyTorch
