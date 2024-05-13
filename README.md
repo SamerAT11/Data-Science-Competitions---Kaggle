@@ -12,3 +12,4 @@ This repository contains all Kaggle scripts that I implemented for competitions 
 
 * Image Classification Scripts:
    * Flowers classifier - PyTorch
+   * Agricultural Crops Classifier - PyTorch Lightning
